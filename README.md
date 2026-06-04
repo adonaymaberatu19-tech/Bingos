@@ -1,4 +1,4 @@
-# 🎉 Bingo Game
+# 🎉 Bingo Game mala
 
 A simple Bingo number drawing game built with **HTML, CSS, and JavaScript**.
 
